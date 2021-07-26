@@ -3,10 +3,11 @@
 #puts myouji='白坂'
 #puts nenrei=２１
 
-myouji='白坂'
+myouji = '白坂'
 
-namae='慧珠'
+namae = '慧珠'
 
-nenrei=21
+nenrei = 21
 
-puts myouji+namae+"です。"+nenrei+"歳です。"
+
+puts myouji + namae + "です。" + nenrei.to_s + "歳です。"

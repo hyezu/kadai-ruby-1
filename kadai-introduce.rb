@@ -13,10 +13,4 @@ puts namae
 nenrei='21'
 puts nenrei
 
-str1='白坂'
-str2='慧珠'
-str=str1+str2
-puts str
-
-puts str+"です。"
-puts nenrei+"歳です。"
+puts myouji+namae+"です。"+nenrei+"歳です。"
